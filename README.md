@@ -1,1 +1,1 @@
-# titanic-kaggle
+# Automatic Music Genre Classification
