@@ -9,8 +9,8 @@ The dataset used in our work is the GTZAN genre collection dataset, created by G
 
 ## Usage
  Run the python file `main_classification.py` or `main_classification_with_vote.py`.
-    * This will run cross-validation across the training set, and print the accuracy score.
-    * Confusion matrix over the whole cross-validation will be displayed.
+ * This will run cross-validation across the training set, and print the accuracy score.
+ * Confusion matrix over the whole cross-validation will be displayed.
 
 ## Report
 The report of our work and of our researches upon this topic can be found [here](https://github.com/luca-serra/automatic-music-genre-classification/blob/master/Final_Project.pdf). Two other folders complete this report section ([resources](https://github.com/luca-serra/automatic-music-genre-classification/tree/master/resources) and [summaries](https://github.com/luca-serra/automatic-music-genre-classification/tree/master/summaries) we made of these documents).
