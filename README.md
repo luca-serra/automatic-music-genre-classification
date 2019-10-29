@@ -11,3 +11,6 @@ The data necessary can be found
  Run the python file main.py
     * This will run cross validation across the training set, and print the accuracy score.
     * Results will be shown for several classifiers : Naive classifier, Linear SVM, Decision Tree with AdaBoost, Gaussian Kernel SVM.
+
+## Report
+The report of our work and of our researches upon this topic can be found [here](https://github.com/luca-serra/automatic-music-genre-classification/blob/master/Final_Project.pdf). Two other folders complete this report section ([resources](https://github.com/luca-serra/automatic-music-genre-classification/tree/master/resources) and [summaries](https://github.com/luca-serra/automatic-music-genre-classification/tree/master/summaries) we made of these documents).
