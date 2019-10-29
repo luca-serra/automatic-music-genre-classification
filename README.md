@@ -5,12 +5,12 @@ This group project aims to classify a short music sample between 10 genres (rock
 Install the requirements using `pip install -r requirements.txt`
 
 ## Data
-The dataset used in our work is the GTZAN genre collection dataset, created by George Tzanetakis, available for download at marsyas.info/downloads/datasets.html.(Approximately 1.2GB) However, we already provided the [CSV file](https://github.com/luca-serra/automatic-music-genre-classification/blob/master/Code/extracted_features.csv) (obtained thanks to `feature_extraction.py` run on the dataset) used in the program. 
+The dataset used in our work is the GTZAN genre collection dataset, created by George Tzanetakis, available for download at [marsyas.info/downloads/datasets.html]. (Approximately 1.2GB) However, we provided the [CSV file](https://github.com/luca-serra/automatic-music-genre-classification/blob/master/Code/extracted_features.csv) (obtained thanks to `feature_extraction.py` run on the dataset) used in the program. 
 
 ## Usage
- Run the python file main.py
-    * This will run cross validation across the training set, and print the accuracy score.
-    * Results will be shown for several classifiers : Naive classifier, Linear SVM, Decision Tree with AdaBoost, Gaussian Kernel SVM.
+ Run the python file `main_classification.py` or `main_classification_with_vote.py`.
+    * This will run cross-validation across the training set, and print the accuracy score.
+    * Confusion matrix over the whole cross-validation will be displayed.
 
 ## Report
 The report of our work and of our researches upon this topic can be found [here](https://github.com/luca-serra/automatic-music-genre-classification/blob/master/Final_Project.pdf). Two other folders complete this report section ([resources](https://github.com/luca-serra/automatic-music-genre-classification/tree/master/resources) and [summaries](https://github.com/luca-serra/automatic-music-genre-classification/tree/master/summaries) we made of these documents).
