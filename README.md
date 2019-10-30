@@ -5,7 +5,7 @@ This group project aims to classify a short music sample between 10 genres (rock
 Install the requirements using `pip install -r requirements.txt`
 
 ## Data
-The dataset used in our work is the GTZAN genre collection dataset, created by George Tzanetakis, available for download at [marsyas.info/downloads/datasets.html]. (Approximately 1.2GB) However, we provided the [CSV file](https://github.com/luca-serra/automatic-music-genre-classification/blob/master/Code/extracted_features.csv) (obtained thanks to `feature_extraction.py` run on the dataset) used in the program. 
+The dataset used in our work is the GTZAN genre collection dataset, created by George Tzanetakis, available for download at [this page](marsyas.info/downloads/datasets.html). (Approximately 1.2GB) However, we provided the [CSV file](https://github.com/luca-serra/automatic-music-genre-classification/blob/master/Code/extracted_features.csv) (obtained thanks to `feature_extraction.py` run on the dataset) used in the program. 
 
 ## Usage
  Run the python file `main_classification.py` or `main_classification_with_vote.py`.
