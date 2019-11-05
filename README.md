@@ -12,4 +12,4 @@ The dataset used in our work is the GTZAN genre collection dataset, created by G
  * Confusion matrix over the whole cross-validation will be displayed.
 
 ## Report
-The report of our work and of our researches upon this topic can be found [here](https://github.com/luca-serra/automatic-music-genre-classification/blob/master/Final_Project.pdf). Two other folders complete this report section ([resources](https://github.com/luca-serra/automatic-music-genre-classification/tree/master/resources) and [summaries](https://github.com/luca-serra/automatic-music-genre-classification/tree/master/summaries) we made of these documents).
+The report of our work and of our researches upon this topic can be found [here](https://github.com/luca-serra/automatic-music-genre-classification/blob/master/Final_Project.pdf). Two other folders complete this report section ([resources](https://github.com/luca-serra/automatic-music-genre-classification/tree/master/resources) and [summaries](https://github.com/luca-serra/automatic-music-genre-classification/tree/master/summaries) we made of these resource documents).
