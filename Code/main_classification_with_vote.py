@@ -36,7 +36,7 @@ featurenames = ['Tempo', 'MFCC average', 'MFCC variance',
                                  'Spectral contrast variance', 'Spectral flatness average',
                                  'Spectral flatness variance', 'Zero crossing rate average',
                                  'Zero crossing rate variance']
-data = importCSV("extracted_features.csv")
+data = importCSV("../Data/extracted_features.csv")
 df = pd.DataFrame(data, columns=featurenames)
 
 df = df.drop(columns=[])
